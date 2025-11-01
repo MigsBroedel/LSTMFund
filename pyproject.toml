@@ -1,0 +1,14 @@
+[project]
+name = "lstmfund"
+version = "0.1.0"
+description = "A Long Short-Term Memory (LSTM) based fund management tool."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.3.4",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.7.2",
+    "scipy>=1.16.2",
+    "tensorflow>=2.20.0",
+    "yfinance>=0.2.66",
+]
