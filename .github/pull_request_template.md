@@ -1,17 +1,21 @@
 ### Description
 
-Brief description of changes made.
+<!-- Please include a summary of the changes and the related issue. -->
+
+### Changes
+
+<!-- List out the major changes made in this PR -->
+
+### Why
+
+<!-- Why were these changes made? What problem do they solve? -->
+
+---
 
 ### Testing
 
-- [ ] I have tested these changes locally
-- [ ] I have added tests that prove my fix is effective or that my feature works
+<!-- Please describe the tests that you ran to verify your changes. -->
 
-### Checklist
+### Notes
 
-- [ ] Code follows project style guidelines
-- [ ] Documentation has been updated as needed
-
-### Additional Notes
-
-Any additional information that may be relevant to reviewers.
+<!-- Any additional notes or context. -->
