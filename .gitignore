@@ -179,3 +179,7 @@ data/
   *.csv
   *.parquet
   *.h5
+
+# Additional Python cache files
+patterns/__pycache__/
+**/__pycache__/
